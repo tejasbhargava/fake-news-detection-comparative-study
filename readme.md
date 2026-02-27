@@ -34,8 +34,6 @@ Deep sequential and transformer-based models demonstrated ~6% improvement over c
 ## 🧠 Explainable AI
 
 - Integrated SHAP to analyze feature/token contributions.
-- Compared interpretability across sparse (TF-IDF) and contextual (BERT) representations.
-- Studied challenges of explainability in deep transformer architectures.
 
 ---
 
@@ -73,8 +71,6 @@ FAKE_NEWS_DETECTION/
 │── detection_phase2.ipynb
 │── detection_phase3.ipynb
 │── clean_data_merged.csv
-│── True.csv
-│── Fake.csv
 │── bert_fake_news_model/
 
 
