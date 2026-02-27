@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.pth
+*.csv
+env/
+venv/
+bert_fake_news_model/
